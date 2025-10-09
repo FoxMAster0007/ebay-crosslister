@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Generated launch scripts (created during installation)
+run_crosslister.sh
+run_crosslister.bat
+run.sh
+run.bat
+
+# Old/backup files
+/old/
+

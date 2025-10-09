@@ -1,0 +1,26 @@
+# eBay CrossLister - Production Dependencies
+
+# Core Framework
+textual>=0.47.1
+
+# HTTP and API clients
+httpx>=0.25.0
+aiohttp>=3.8.0
+requests>=2.31.0  # HTTP fallback client
+
+# Security and Authentication  
+keyring>=24.0.0
+cryptography>=41.0.0
+
+# Data Processing and Analysis
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+pandas>=2.0.0  # Data analysis and CSV export
+
+# Configuration and Environment
+python-dotenv>=1.0.0  # Environment variable support
+
+# Development tools (uncomment for development)
+# black>=23.0.0  # Code formatting
+# pytest>=7.0.0  # Testing framework
+# mypy>=1.0.0    # Type checking
