@@ -285,10 +285,16 @@ MIT License - see LICENSE file for details.
 
 ## Support
 
-I apologize for any issues you may find during your usage of this application, I've been learning with the help of Copilot (hence why you can see some "vibe-code" throughout the scripts) but it's a process! If you need any help, want to report any issues, or just make a suggestion - please submit either an Issue or Pull Request on the GitHub repo! 
+I apologize for any issues you may find during your usage of this application, I've been learning how to code over the past year with the help of various online resources (hence why you can see some AI generated code throughout the scripts, many of the topics I had talked out with Copilot and even had it work in Agent mode as I worked on other sections) but it's a process! If you need any help, want to report any issues, or just want to make a suggestion - please submit either an Issue, Pull Request, or just reach out directly! 
 
 ---
 
-p.s. pls don't roast me for the lack of modularization, I promise I'm modularizing the script properly in a future update! I'm learning!!
+I can't express how much I appreciate you taking the time out to take a look at this app, I put it together with the hopes of saving a family member and any one else in similar shoes some money - I hope it's useful for you too!!
+
+
+
+p.s. pls don't roast me for the lack of modularization, I promise I'm modularizing the app properly in a future update! 
+
+
 
 **made with love by sylcrala :)**
