@@ -1,5 +1,5 @@
-eBay CrossLister v1.0
 MIT License
+eBay CrossLister v1.0
 
 Copyright (c) 2025 sylcrala | sylcrala.xyz | contact@sylcrala.xyz
 
