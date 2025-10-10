@@ -12,8 +12,8 @@ Want to list Amazon products on your own eBay store? Don't worry, with this loca
 ### Simple Installation (Recommended)
 ```bash
 # Download repository
-git clone https://github.com/sylcrala/ebay_crosslister.git
-cd ebay_crosslister
+git clone https://github.com/sylcrala/ebay-crosslister.git
+cd ebay-crosslister
 
 # Windows installation
 install.bat
